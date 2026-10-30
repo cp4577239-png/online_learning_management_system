@@ -1,0 +1,6 @@
+{
+  "name": "Learnova - Modern Learning Management System",
+  "description": "Next-generation SaaS Learning Management System for students, instructors, and administrators with interactive video learning, AI tutor, assessments, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
